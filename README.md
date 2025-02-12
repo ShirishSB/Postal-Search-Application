@@ -6,4 +6,6 @@ Search API - http://localhost:3000/search
 
 Favourites API - http://localhost:3000/favourites
 
+It is also adding favourites into database
+
 
